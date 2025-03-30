@@ -1,2 +1,2 @@
-# Core-Java-Practicle
-Core Java Practicle
+# Core-Java-Practical
+Core Java Practical
